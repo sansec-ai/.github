@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-This is the official GitHub profile for [sansec-ai](https://github.com/orgs/sansec-ai), an open-source organization under **SANSEC (三未信安科技股份有限公司)**. SANSEC is a high-tech enterprise specializing in cryptographic technology and information security, founded on August 18, 2008, with its headquarters in Chaoyang District, Beijing. The company is a leading provider of cryptographic infrastructure in China, committed to innovation in cryptographic key technologies and the development, sales, and services of core products, offering comprehensive commercial cryptographic solutions for network information security.
+This is the official GitHub profile for [sansec-ai](https://github.com/orgs/sansec-ai), an open-source organization under **SANSEC (三未信安科技股份有限公司)**. 
 
 SANSEC's open-source large model cryptographic enhancement suite aims to provide a comprehensive solution for the secure operation of large AI models.
 
 Below are some of our key projects:
 
-- **secuLlama**: A password-based secure foundation for large AI models. It enhances the security of Ollama and is released as an open-source project.
-- **mcp-cryptokit**: A cryptographic algorithm suite compliant with the standard MCP protocol, integrating cryptographic technology into AI applications for secure communication and data protection.
-- **mcp-hsm3**: A hardware security module integration framework that complies with the standard MCP protocol, designed for secure management of cryptographic keys.
+- **[secuLlama](https://github.com/sansec-ai/secuLlama/)**: A password-based secure foundation for large AI models. It enhances the security of Ollama and is released as an open-source project.
+- **[mcp-cryptokit](https://github.com/sansec-ai/mcp-cryptokit)**: A cryptographic algorithm suite compliant with the standard MCP protocol, integrating cryptographic technology into AI applications for secure communication and data protection.
+- **[mcp-hsm](https://github.com/sansec-ai/mcp-hsm)**: A hardware security module integration framework that complies with the standard MCP protocol, designed for secure management of cryptographic keys.
 
 <!--
 
