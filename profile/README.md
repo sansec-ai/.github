@@ -1,22 +1,11 @@
 ## Hi there 👋
 
-This is the official GitHub profile for [sansec-ai](https://github.com/orgs/sansec-ai), an open-source organization under **SANSEC (三未信安科技股份有限公司)**. 
+这是 [sansec-ai](https://github.com/orgs/sansec-ai) 的官方 GitHub 主页，这是一个隶属于 **[三未信安科技股份有限公司](https://www.sansec.com.cn/)** 的开源组织。
 
-SANSEC's open-source large model cryptographic enhancement suite aims to provide a comprehensive solution for the secure operation of large AI models.
+三未信安推出的开源大模型密码增强套件旨在为大模型的安全运行提供全面的解决方案。
 
-Below are some of our key projects:
+以下是我们的一些关键项目：
 
-- **[secuLlama](https://github.com/sansec-ai/secuLlama/)**: A password-based secure foundation for large AI models. It enhances the security of Ollama and is released as an open-source project.
-- **[mcp-cryptokit](https://github.com/sansec-ai/mcp-cryptokit)**: A cryptographic algorithm suite compliant with the standard MCP protocol, integrating cryptographic technology into AI applications for secure communication and data protection.
-- **[mcp-hsm](https://github.com/sansec-ai/mcp-hsm)**: A hardware security module integration framework that complies with the standard MCP protocol, designed for secure management of cryptographic keys.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **[secuLlama](https://github.com/sansec-ai/secuLlama/)**: 基于开源 Ollama ，增加安全配置参数，对大模型运行系统进行安全保护。
+- **[mcp-cryptokit](https://github.com/sansec-ai/mcp-cryptokit)**: 基于MCP协议提供高效的软件密码能力支持。
+- **[mcp-hsm](https://github.com/sansec-ai/mcp-hsm)**: 基于MCP协议提供硬件级密钥管理与密码运算服务。
